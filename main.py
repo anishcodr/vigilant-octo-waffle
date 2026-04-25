@@ -17,8 +17,8 @@ from aiogram.enums import ParseMode
 # ==========================================
 # ⚙️ CONFIGURATION
 # ==========================================
-API_TOKEN = '8710411393:AAFIYFYTVbE42o-SB4yuig1uvB78ctHCKEs' # ⚠️ Revoke and change this later for security!
-ADMIN_IDS = [7616065999, 7672413819] # Both Admins supported!
+API_TOKEN = '8628992445:AAFn4ElPXRa6-8huefzzIFcC3OMecIDXXUM' # ⚠️ Revoke and change this later for security!
+ADMIN_IDS = [7672413819, 7672413819] # Both Admins supported!
 SUPPORT_LINK = 'https://t.me/somani_07x'
 
 bot = Bot(token=API_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
